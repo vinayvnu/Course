@@ -9,3 +9,8 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Vinay Thakur
+Divide and Conquer Algorithms
+its better to make code in smaller chunks or functions instead of writing the whole solution one function.
+This will make the code diffcult to understand and difficult to debug.
+
